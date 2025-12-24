@@ -1,6 +1,6 @@
 # Examining racial and education factors contributed to income inequality in the most inequality county in California from 2012 to 2021 
 
-by Yanyao Cui
+by Yanyao Cui & Houpu Li
 
 ## The Introduction of the Topic
 Regional income inequality is an important social, political, and economic issue. Inequality can affect economic growth and development, political stability, and class and ethnic tensions. The empirical literature identifies various factors that shape inequality, such as urbanization, the level of development, the nature of the political regime, government intervention, and land inequality(Abdullah.et,2015). 
